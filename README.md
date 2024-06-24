@@ -1,1 +1,1 @@
-# yt_shorts
+# Автоматизация генерации контента Youtube Shorts
